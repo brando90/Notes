@@ -1,4 +1,0 @@
-Notes from vim cast
-----
-
-
